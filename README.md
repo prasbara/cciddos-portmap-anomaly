@@ -1,5 +1,4 @@
-readme: |
-  <h1 align="center" id="title">🛰️ DDoS PortMap Anomaly Detection</h1>
+<h1 align="center" id="title">🛰️ DDoS PortMap Anomaly Detection</h1>
 
   <p align="center">
     <img src="https://socialify.git.ci/prasbara/cciddos-portmap-anomaly/image?description=1&language=1&owner=1&stargazers=1&theme=Light" alt="project-banner">
